@@ -19,7 +19,7 @@
 
 ## Struttura del Progetto
 
-    /Eloquent-Sakila-Project
+    /Progetto
     │── /app
     │   ├── /Models
     │   │   ├── Film.php
